@@ -1,0 +1,15 @@
+/* Add CSS Styling */
+.btn-1 {
+  background: darkblue;
+  color: white;
+}
+.btn-2 {
+  background: lightblue;
+}
+.btn-1,
+.btn-2 {
+  font:
+    28px "Helvetica",
+    "Times New R",
+    sans-serif;
+}
